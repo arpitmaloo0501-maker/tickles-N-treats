@@ -1,0 +1,18 @@
+{
+  "name": "Tickles N Treats — Cafe & Play Area",
+  "short_name": "Tickles N Treats",
+  "description": "Raipur's playful cafe and indoor kids play area at Sia Heights, Shankar Nagar. 100% Pure Vegetarian dining.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F0",
+  "theme_color": "#FF4D8D",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
